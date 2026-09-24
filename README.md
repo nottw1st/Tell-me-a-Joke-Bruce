@@ -1,1 +1,3 @@
 # Tell-me-a-Joke-Bruce-
+
+Tells you a Joke on Bruce if ur lonely (as always). Only works when connected to WiFi…
